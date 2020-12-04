@@ -14,6 +14,11 @@
 2. ~~利用Github的Actions 每周重启 IBM Cloud Fonudray~~
 3. ~~Cloudflare 高速节点中转~~
 
+# 使用Github Action定时重启IBM cloud foundry
+
+https://codes.blog.csdn.net/article/details/108634993
+
+
 # 使用IBM Cloud Fonudray搭建应用
 
 首先注册https://cloud.ibm.com/
